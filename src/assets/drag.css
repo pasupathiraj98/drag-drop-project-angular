@@ -1,0 +1,111 @@
+
+.vt{
+	height:60px;
+	
+
+}
+
+.vt1{
+	margin-top:-5px;
+	padding:10px;
+	padding-left:35px;
+
+}
+
+
+.side{
+	height:620px;
+	background-color:none;
+}
+.main{
+	height:620px;
+	background-color:none;
+}
+.sheets{
+	height:100px;
+	background-color:white;
+}
+.pre{
+	padding-top:40px;
+	margin-left: 20px;
+}
+/*.pro{
+	margin-left: 90px;
+	padding-top:40px;
+
+
+}*/
+.kul{
+
+	padding-top:10px;
+	/*margin-left: 90px;*/
+ }
+
+ ul.a{
+ 	list-style-type: none;
+ 	margin-left:60px;
+ }
+
+.sun{
+	padding-top:10px;
+
+	/*margin-left: 90px;*/
+}
+.num{
+	padding-top:10px;
+	/*margin-left: 90px;*/
+}
+.date{
+	padding-top:10px;
+	/*margin-left: 90px;*/
+}
+.but{
+    margin-top:30px;
+	margin-left: 90px;
+	width:150px;
+	
+
+}
+.break{
+	height:50px;
+}
+.com{
+	background-color:grey;
+   color:white;
+   padding-top:30px;
+   width:100%;
+}
+.com>h5{
+	position: relative;
+	top: -10px;
+	margin-left:20px;
+	/*margin-bottom:10px;*/
+}
+.break1{
+	background-color:green;
+	color: white;
+	padding-top:30px;
+	width:100%;
+}
+.break1>h5{
+	margin-left:20px;
+	position: relative;
+	top: -10px;
+}
+.break2{
+	background-color:orange;
+	color:white;
+	padding-top:30px;
+	width:100%;
+}
+.break2>h5{
+  margin-left:20px;
+  position: relative;
+	top: -10px;
+} 
+.size1{
+   margin-top:20px;
+}
+/*.size 3{
+   
+}*/
